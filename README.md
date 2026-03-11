@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/gif"girl_coder.gif" width="250">
+  <img src="./girl_coder.gif" width="250">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer" />
