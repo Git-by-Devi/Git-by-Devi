@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Devi%20Selvakumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</p>
 <p align="center">
   <img src="./girl_coder.gif" width="250">
 </p>
