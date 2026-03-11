@@ -1,42 +1,32 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Devi%20Selvakumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="./assets/gif"girl_coder.gif" width="250">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer" />
 </p>
 
+---
 
+# 💫 About Me
 
-<div align="center">
-  <h2>
-    <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" />
-  </h2>
-</div>
+🎓 **Electronics and Communication Engineering Student**
 
-<div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer" />
-  </h2>
-</div>
+💻 Passionate about **Web Application Development and Database Systems**
 
+🚀 Currently building **scalable web applications using modern technologies**
 
+📚 Continuously learning **React, Supabase, SQL, and backend development**
+
+🤝 Interested in collaborating on **open-source projects related to web development**
+
+💬 Ask me about **web development, database design, and project architecture**
+
+⚡ Fun fact: I enjoy solving problems by designing **clean and efficient system structures**
 
 ---
 
-
-## 💫 About Me
-
-- I am currently focused on developing robust and scalable **web applications**
-- 🤝 I am open to collaborating on **open-source projects** related to **web development** and **database management systems**.
-
-- 🖐 I am seeking guidance in **advanced JavaScript frameworks** and **performance optimization in React-based applications**.
-
-- 🌱 I am actively strengthening  my expertise in **database management using Supabase and SQL**.
-
-- 💬 You can ask me about **web application development**, **database design**, **project structuring**, and **coding best practices**.
-
-- ⚡ Fun fact: I enjoy applying structured problem-solving techniques to build clean, efficient, and maintainable web solutions.
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -47,33 +37,30 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 🔧 Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🎨 Front-end
+### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+ 
 </p>
 
-### ⚙️ Back-end & Databases
+### ⚙️ Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -91,6 +78,7 @@
 
 ---
 
+# 📊 GitHub Activity
 
 <p align="center">
   <img 
