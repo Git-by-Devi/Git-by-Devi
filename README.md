@@ -12,19 +12,19 @@
 
 # 💫 About Me
 
-🎓 **Electronics and Communication Engineering Student**
+**🎓 Electronics and Communication Engineering Student**
 
-💻 Passionate about **Web Application Development and Database Systems**
+💡 Building a strong foundation in Electronics, Embedded Systems, and Full-Stack Development
 
-🚀 Currently building **scalable web applications using modern technologies**
+⚙️**Skilled** in Digital Electronics, CMOS & VLSI, PCB Design, Embedded Systems, and IoT Applications
 
-📚 Continuously learning **React, Supabase, SQL, and backend development**
+💻 **Experienced** in Full-Stack Web Development using React.js, Node.js, Express.js, MongoDB, MySQL, and Supabase
 
-🤝 Interested in collaborating on **open-source projects related to web development**
+🛠️ **Hands-on** with MATLAB, Vivado Xilinx, LTspice, Altium Designer, Git, Docker, Vercel, and Render
 
-💬 Ask me about **web development, database design, and project architecture**
+🚀 **Developed projects** in MERN Stack, IoT-based Smart Systems, Database Management Systems, and Automation Solutions
 
-⚡ Fun fact: I enjoy solving problems by designing **clean and efficient system structures**
+📚 Continuously exploring System Design, Backend Development, Cloud Computing, and Software Architecture
 
 ---
 
@@ -71,11 +71,14 @@
 
 ### ☁️ Cloud & Tools
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vivado-E01F26?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logoColor=black" />
 </p>
 
 ---
